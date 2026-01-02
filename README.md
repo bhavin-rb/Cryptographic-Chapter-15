@@ -12,6 +12,9 @@ It includes datasets, figures, and the full chapter document for publisher revie
 - **Figures/**  
   Folder containing all figures referenced in the chapter. Provided in high resolution for publication.
 
+- **Data/**  
+  Folder containing all data in csv file format. Experimental dataset used throughout the analysis.
+
 - **Cryptographic_Chapter_15.docx**  
   Chapter manuscript exported from Google Docs. Includes references, figures, and formatted text.
 
